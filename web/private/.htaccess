@@ -1,4 +1,4 @@
 AuthType Basic
 AuthName "Restricted access"
-AuthUserFile "activity6to9/.htpasswd"
+AuthUserFile "activity6to9/web/.htpasswd"
 Require valid-user
